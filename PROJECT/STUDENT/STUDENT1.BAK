@@ -1,0 +1,65 @@
+#include <stdio.h>
+#include <conio.h>
+
+#define F1 59
+#define F2 60
+#define F3 61
+#define F4 62
+#define F5 63
+#define F6 64
+#define F7 65
+
+
+{
+	long id;
+	char fname[40];
+	char college[40];
+	char cell[20];
+	char course[30];
+	float fees;
+	float admfees;
+	float balance;
+}STUDENT;
+
+
+void newrecord();
+void showall();
+void search();
+void update();
+void delete();
+void showbalance();
+void menus();
+void reports();
+
+void newrecord()
+{
+
+}
+void showall()
+{
+
+}
+void search()
+{
+
+}
+void update()
+{
+
+}
+void delete()
+{
+
+}
+void showbalance()
+{
+
+}
+void menus()
+{
+
+}
+void reports()
+{
+
+}
